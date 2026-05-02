@@ -146,7 +146,7 @@ During my internship period, I participated in multiple community-oriented activ
 - These are just placeholder (sample) images <!-- remove this line -->
 
 <div align="center">
-<img src="service1.jpeg" alt="Community Service Photo 1" width="30%">
+<img src="[service1.jpeg](https://github.com/febinthomas7/Event-Management-System/blob/main/service1.png)" alt="Community Service Photo 1" width="30%">
 <img src="service2.jpeg" alt="Community Service Photo 3" width="30%">
 </div>
 
