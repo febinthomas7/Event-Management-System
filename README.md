@@ -73,7 +73,7 @@ During this course, I developed a comprehensive understanding of the Salesforce 
 
 </div>
 <!-- Project 1 -->
-<h3 id="[project1](https://github.com/febinthomas7/Event-Management-System/blob/main/SURE%20Trust%20poject%20report.pdf)">Project 1: Event Management System </h3>
+<h3 id="[project1]">Project 1: Event Management System </h3>
 <p>
 This project involved developing a Salesforce-based Event Management System to automate the end-to-end lifecycle of corporate and private events. Built using core administrative and development concepts, the system manages custom objects for Events, Attendees, Speakers, and Vendors, utilizing junction objects for complex relationship mapping.
 
@@ -81,7 +81,7 @@ I implemented Screen Flows for attendee registration, Record-Triggered Flows for
 
 </p>
 <p>
-  <a href="project.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/febinthomas7/Event-Management-System/blob/main/SURE%20Trust%20poject%20report.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
