@@ -70,7 +70,6 @@ During this course, I developed a comprehensive understanding of the Salesforce 
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="[#project1](https://github.com/febinthomas7/Event-Management-System/blob/main/SURE%20Trust%20poject%20report.pdf)">Project 1:</a></strong> &lt; Event Management System &gt;</p>
 
 </div>
 <!-- Project 1 -->
