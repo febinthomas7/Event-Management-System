@@ -70,11 +70,11 @@ During this course, I developed a comprehensive understanding of the Salesforce 
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt; Event Management System &gt;</p>
+<p><strong><a href="[#project1](https://github.com/febinthomas7/Event-Management-System/blob/main/SURE%20Trust%20poject%20report.pdf)">Project 1:</a></strong> &lt; Event Management System &gt;</p>
 
 </div>
 <!-- Project 1 -->
-<h3 id="project1">Project 1: Event Management System </h3>
+<h3 id="[project1](https://github.com/febinthomas7/Event-Management-System/blob/main/SURE%20Trust%20poject%20report.pdf)">Project 1: Event Management System </h3>
 <p>
 This project involved developing a Salesforce-based Event Management System to automate the end-to-end lifecycle of corporate and private events. Built using core administrative and development concepts, the system manages custom objects for Events, Attendees, Speakers, and Vendors, utilizing junction objects for complex relationship mapping.
 
